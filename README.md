@@ -1,6 +1,6 @@
 # Oxi-Shapes: Tropical Geometry for Bounded Redox Proteomics
 
-This repository contains the reference implementation and analysis scripts for **Oxi-Shapes**, a measurement-native tropical geometric framework for analysing bounded biochemical state spaces. The code accompanies a paired theoretical and applied submission to *Patterns* and provides a fully reproducible instantiation of the framework on empirical redox proteomics data.
+This repository contains the reference implementation and analysis scripts for **Oxi-Shapes**, a measurement-native tropical geometric framework for analysing bounded biochemical state spaces. The code accompanies a published *Patterns* paper[https://www.sciencedirect.com/science/article/pii/S2666389926001224]and provides a fully reproducible instantiation of the framework on empirical redox proteomics data.
 
 ---
 
